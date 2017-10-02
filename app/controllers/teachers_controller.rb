@@ -1,6 +1,6 @@
 class TeachersController < ApplicationController
   def new
-    @placeholder_course = '186'
+    @placeholder_course = "189"
   end
 
   def create
